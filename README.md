@@ -1,2 +1,2 @@
 # Proof-Allora-Node
-Allora Network Testnet Worker-Node
+Allora Network Testnet: Worker-Node
